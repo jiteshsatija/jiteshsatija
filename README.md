@@ -1,9 +1,14 @@
-👋 Hi there, I'm @JiteshSatija!
-🌐 Currently honing my skills in Front-end Web Development and Python.
-💻 Passionate about Web Development, UI/UX Design, and the endless possibilities they bring.
-📚 Pursuing BCA in India, on a mission to merge creativity with technology.
-🚀 Excited about the journey of transforming ideas into digital experiences.
-Let's build the future one line of code at a time! Connect with me at jiteshsatija77@email.com. 🚀✨
+# Hey there 👋, I'm Jitesh Satija
+
+- 🚀 Mastering the art of Front-end Web Development and Python coding.
+- 🎨 Passionate about crafting seamless UI/UX experiences.
+- 👯 Open to collaborating on Front-End Development projects.
+- 🤔 Seeking expertise in Python sorcery for dynamic applications.
+- 💬 Let's discuss the possibilities of Full Stack harmony!
+- 📫 Reach me at jiteshsatija77@gmail.com for professional inquiries.
+- 😄 Pronouns: He/Him
+
+Your code journey begins here! 🌟
 
 <!---
 jiteshsatija/jiteshsatija is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
