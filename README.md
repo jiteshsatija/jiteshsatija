@@ -1,26 +1,37 @@
-# Hi there, I'm Jitesh Satija 👋
+# Hi there 👋, I'm Jitesh Satija
+
+A BCA student at Modi Institute of Management & Technology, Kota, Rajasthan, India.
+
+## Current Focus
+
+🚀 Mastering Front-end Web Development and Python coding.
 
 ## About Me
-🚀 BCA Student at Modi Institute of Management & Technology, Kota, Rajasthan, India
-💻 Transforming code into digital art and crafting unforgettable user experiences
-🌟 Actively involved in Google Developer Student Clubs (GDSC)
-🎓 Began my tech journey in 2023, aiming for a grand finale in 2026
-✨ Open to exciting tech collaborations and internship opportunities
 
-## Skills
+- 🔭 I’m currently working on improving my skills in UI/UX Design.
+- 🌱 Learning React.js, Python, Data Structures, Algorithms, and more.
+- 👯 Open to collaborating on exciting Front-End Development projects.
+- 🤝 Looking for opportunities to dive into Machine Learning.
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-1abc9c?style=flat-square)
-![Algorithms](https://img.shields.io/badge/Algorithms-2ecc71?style=flat-square)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1793D1?style=flat-square&logo=linux&logoColor=white)
+  
+## Tech Stack
+
+Languages and Tools:
+
+| Language/Tool   | Badge                                                                                                             |
+| --------------- | ----------------------------------------------------------------------------------------------------------------- |
+| HTML            | ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)                  |
+| CSS             | ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)                       |
+| JavaScript      | ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white) |
+| React           | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)                |
+| Python          | ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)               |
+| C               | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)                            |
+| Bootstrap       | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)    |
+| Data Structures | ![Data Structures](https://img.shields.io/badge/Data%20Structures-1abc9c?style=for-the-badge)                     |
+| Algorithms      | ![Algorithms](https://img.shields.io/badge/Algorithms-2ecc71?style=for-the-badge)                                 |
+| Figma           | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)                |
+| Git             | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)                      |
+| Linux           | ![Linux](https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=linux&logoColor=white)                |
 
 ## Connect with Me
 
