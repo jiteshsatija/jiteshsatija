@@ -1,8 +1,10 @@
-# Hi there 👋, I'm Jitesh Satija
+<div align="center">
+  <h1 style="font-size: 3em;">Hi there 👋, I'm Jitesh Satija</h1>
+</div>
 
-**A BCA student from india. as well as fontend developer and Ux\Ui designer**
-
-                              
+<div align="center">
+  <p style="font-size: 1.5em;">A BCA student from India. As well as a frontend developer and UX/UI designer.</p>
+</div>
 
 ## Current Focus
 
@@ -37,12 +39,18 @@ Languages and Tools:
 
 ## Connect with Me
 
-[![LinkedIn Icon][![Email](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png)](mailto:jiteshsatija77@gmail.com)
-
-[![Twitter](https://www.google.com/imgres?imgurl=https%3A%2F%2Ffreepnglogo.com%2Fimages%2Fall_img%2F1691832460x-twitter-logo-png.png&tbnid=s5HMg6xsCDTaSM&vet=12ahUKEwiCgKjKkI-EAxWZq2MGHZuTCaAQMygJegQIARBk..i&imgrefurl=https%3A%2F%2Ffreepnglogo.com%2Ftwitter-x-logo-png&docid=eIFNA_OH3tQZ0M&w=1800&h=1800&q=twiiter%20logo%20png&ved=2ahUKEwiCgKjKkI-EAxWZq2MGHZuTCaAQMygJegQIARBk)](https://twitter.com/Jiteshsatija_in)
-[![Instagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.klipartz.com%2Fen%2Fsticker-png-toflr&psig=AOvVaw349iIMz3yQdmkO1vozA9b5&ust=1707048336590000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCF5-CQj4QDFQAAAAAdAAAAABAE)](https://www.instagram.com/jiteshh.xd/)
-[![Email][![Email](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png)](mailto:jiteshsatija77@gmail.com)
-
+[![LinkedIn Icon]<a href="https://www.linkedin.com/in/jiteshsatija2006/">
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" width="40" height="30">
+</a>
+[![Twitter]<a href="https://twitter.com/Jiteshsatija_in">
+  <img src="https://freepnglogo.com/images/all_img/1691832460x-twitter-logo-png.png" alt="Twitter" width="40" height="30">
+</a>
+[![Instagram]<a href="https://www.instagram.com/jiteshh.xd/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram" width="40" height="30">
+</a>
+[![Email]<a href="mailto:jiteshsatija77@gmail.com">
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" width="40" height="30">
+</a>
 
 
 ## GitHub Profile Summary Cards
