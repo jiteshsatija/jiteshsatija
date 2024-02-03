@@ -34,6 +34,7 @@
 
 
 ## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jiteshsatija-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jiteshsatija/)
 LinkedIn: Jitesh Satija
 Email: jiteshsatija77@gmail.com
 
@@ -41,8 +42,12 @@ Email: jiteshsatija77@gmail.com
 [![Jitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiteshsatija&show_icons=true&hide_border=true&count_private=true&theme=dark)](https://github.com/jiteshsatija)
 
 ## Github Activity
-[![Jitesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jiteshsatija&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jiteshsatija)](https://github.com/ryo-ma/github-profile-trophy)
 
+## GitHub Profile Summary Cards
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiteshsatija&show_icons=true&count_private=true)](https://github.com/jiteshsatija)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshsatija)](https://github.com/jiteshsatija)
 
 ## Top Projects
 Sundown Studio Website
