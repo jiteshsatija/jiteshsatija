@@ -9,43 +9,28 @@
 
 ## Skills
 
-- **Programming Languages:**
-  ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-
-- **Web Development:**
-  ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-
-- **UI/UX Design:**
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-  ![User Interface Design](https://img.shields.io/badge/-UI/UX-34a4eb?style=flat-square)
-
-- **Development Tools:**
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![Linux](https://img.shields.io/badge/-Linux-1793D1?style=flat-square&logo=linux&logoColor=white)
-
-- **Data Structures & Algorithms:**
-  ![Data Structures](https://img.shields.io/badge/-Data%20Structures-1abc9c?style=flat-square)
-  ![Algorithms](https://img.shields.io/badge/-Algorithms-2ecc71?style=flat-square)
-
+![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-1abc9c?style=flat-square)
+![Algorithms](https://img.shields.io/badge/Algorithms-2ecc71?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1793D1?style=flat-square&logo=linux&logoColor=white)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jiteshsatija-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jiteshsatija/)
-LinkedIn: Jitesh Satija
-Email: jiteshsatija77@gmail.com
 
-## GitHub Stats
-[![Jitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiteshsatija&show_icons=true&hide_border=true&count_private=true&theme=dark)](https://github.com/jiteshsatija)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jiteshsatija2006-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jiteshsatija2006/)
+[![Twitter](https://img.shields.io/badge/Twitter-Jiteshsatija_in-blue?style=flat-square&logo=twitter&labelColor=blue)](https://twitter.com/Jiteshsatija_in)
+[![Instagram](https://img.shields.io/badge/Instagram-jiteshh.xd-purple?style=flat-square&logo=instagram&labelColor=purple)](https://www.instagram.com/jiteshh.xd/)
+[![Email](https://img.shields.io/badge/Email-jiteshsatija77%40gmail.com-red?style=flat-square)](mailto:jiteshsatija77@gmail.com)
 
-## Github Activity
-[![trophy](https://github-profile-trophy.vercel.app/?username=jiteshsatija)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Profile Summary Cards
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiteshsatija&show_icons=true&count_private=true)](https://github.com/jiteshsatija)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshsatija)](https://github.com/jiteshsatija)
 
