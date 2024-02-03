@@ -1,6 +1,6 @@
-                                                # Hi there 👋, I'm Jitesh Satija
+# Hi there 👋, I'm Jitesh Satija
 
-                              **A BCA student from india. as well as fontend developer and Ux\Ui designer**
+**A BCA student from india. as well as fontend developer and Ux\Ui designer**
 
                               
 
@@ -37,10 +37,11 @@ Languages and Tools:
 
 ## Connect with Me
 
-[![LinkedIn Icon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ALinkedIn_logo_initials.png&psig=AOvVaw3zVTHJWWrYkkv9t2n0LvNL&ust=1707047946583000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCU0KePj4QDFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/jiteshsatija2006/)
+[![LinkedIn Icon][![Email](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png)](mailto:jiteshsatija77@gmail.com)
+
 [![Twitter](https://www.google.com/imgres?imgurl=https%3A%2F%2Ffreepnglogo.com%2Fimages%2Fall_img%2F1691832460x-twitter-logo-png.png&tbnid=s5HMg6xsCDTaSM&vet=12ahUKEwiCgKjKkI-EAxWZq2MGHZuTCaAQMygJegQIARBk..i&imgrefurl=https%3A%2F%2Ffreepnglogo.com%2Ftwitter-x-logo-png&docid=eIFNA_OH3tQZ0M&w=1800&h=1800&q=twiiter%20logo%20png&ved=2ahUKEwiCgKjKkI-EAxWZq2MGHZuTCaAQMygJegQIARBk)](https://twitter.com/Jiteshsatija_in)
 [![Instagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.klipartz.com%2Fen%2Fsticker-png-toflr&psig=AOvVaw349iIMz3yQdmkO1vozA9b5&ust=1707048336590000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCF5-CQj4QDFQAAAAAdAAAAABAE)](https://www.instagram.com/jiteshh.xd/)
-[![Email](https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F799%2F918%2Fpng-transparent-mail-google-gmail-google-s-logo-icon.png&tbnid=JiK0rMTOofz2vM&vet=12ahUKEwjl3pKekY-EAxX8mGMGHYX-BIIQMygIegUIARCBAQ..i&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dmail%2BIcon&docid=RatsHgm3VZ90nM&w=920&h=920&q=emaillogo%20png&ved=2ahUKEwjl3pKekY-EAxX8mGMGHYX-BIIQMygIegUIARCBAQ)](mailto:jiteshsatija77@gmail.com)
+[![Email][![Email](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png)](mailto:jiteshsatija77@gmail.com)
 
 
 
