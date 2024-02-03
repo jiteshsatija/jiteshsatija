@@ -1,10 +1,12 @@
-# Hi there 👋, I'm Jitesh Satija
+                                                # Hi there 👋, I'm Jitesh Satija
 
-A BCA student at Modi Institute of Management & Technology, Kota, Rajasthan, India.
+                              **A BCA student from india. as well as fontend developer and Ux\Ui designer**
+
+                              
 
 ## Current Focus
 
-🚀 Mastering Front-end Web Development and Python coding.
+🚀 Mastering Front-end Web Development, Python coding and Ux\Ui Designing.
 
 ## About Me
 
@@ -35,10 +37,11 @@ Languages and Tools:
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jiteshsatija2006-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jiteshsatija2006/)
-[![Twitter](https://img.shields.io/badge/Twitter-Jiteshsatija_in-blue?style=flat-square&logo=twitter&labelColor=blue)](https://twitter.com/Jiteshsatija_in)
-[![Instagram](https://img.shields.io/badge/Instagram-jiteshh.xd-purple?style=flat-square&logo=instagram&labelColor=purple)](https://www.instagram.com/jiteshh.xd/)
-[![Email](https://img.shields.io/badge/Email-jiteshsatija77%40gmail.com-red?style=flat-square)](mailto:jiteshsatija77@gmail.com)
+[![LinkedIn Icon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ALinkedIn_logo_initials.png&psig=AOvVaw3zVTHJWWrYkkv9t2n0LvNL&ust=1707047946583000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCU0KePj4QDFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/jiteshsatija2006/)
+[![Twitter](https://www.google.com/imgres?imgurl=https%3A%2F%2Ffreepnglogo.com%2Fimages%2Fall_img%2F1691832460x-twitter-logo-png.png&tbnid=s5HMg6xsCDTaSM&vet=12ahUKEwiCgKjKkI-EAxWZq2MGHZuTCaAQMygJegQIARBk..i&imgrefurl=https%3A%2F%2Ffreepnglogo.com%2Ftwitter-x-logo-png&docid=eIFNA_OH3tQZ0M&w=1800&h=1800&q=twiiter%20logo%20png&ved=2ahUKEwiCgKjKkI-EAxWZq2MGHZuTCaAQMygJegQIARBk)](https://twitter.com/Jiteshsatija_in)
+[![Instagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.klipartz.com%2Fen%2Fsticker-png-toflr&psig=AOvVaw349iIMz3yQdmkO1vozA9b5&ust=1707048336590000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCF5-CQj4QDFQAAAAAdAAAAABAE)](https://www.instagram.com/jiteshh.xd/)
+[![Email](https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F799%2F918%2Fpng-transparent-mail-google-gmail-google-s-logo-icon.png&tbnid=JiK0rMTOofz2vM&vet=12ahUKEwjl3pKekY-EAxX8mGMGHYX-BIIQMygIegUIARCBAQ..i&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dmail%2BIcon&docid=RatsHgm3VZ90nM&w=920&h=920&q=emaillogo%20png&ved=2ahUKEwjl3pKekY-EAxX8mGMGHYX-BIIQMygIegUIARCBAQ)](mailto:jiteshsatija77@gmail.com)
+
 
 
 ## GitHub Profile Summary Cards
@@ -46,12 +49,12 @@ Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshsatija)](https://github.com/jiteshsatija)
 
 ## Top Projects
-Sundown Studio Website
-lemkus website
-Amazon Website Clone
-Apple Website Clone
-Louis Vuitton Clone
-Nunito Website (ux/ui project)
+- Sundown Studio Website
+- lemkus website
+- Amazon Website Clone
+- Apple Website Clone
+- Louis Vuitton Clone
+- Nunito Website (ux/ui project)
 
 
 ## Let's Connect!
