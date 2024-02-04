@@ -1,5 +1,7 @@
 
 ![d9721e5a-fd13-4a73-b65c-c7c40fec3e3c](https://github.com/jiteshsatija/jiteshsatija/assets/144327651/496ec6fc-8532-436a-bbe7-68a3fe15c383)
+![Banner](https://github.com/jiteshsatija/jiteshsatija/blob/main/assets/144327651/496ec6fc-8532-436a-bbe7-68a3fe15c383)
+
 
 
 <div align="center">
