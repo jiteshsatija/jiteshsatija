@@ -1,5 +1,5 @@
 
- <img src"![banner](https://github.com/jiteshsatija/jiteshsatija/assets/144327651/496ec6fc-8532-436a-bbe7-68a3fe15c383)" width"100%"> 
+ ![banner](https://github.com/jiteshsatija/jiteshsatija/assets/144327651/496ec6fc-8532-436a-bbe7-68a3fe15c383) 
 
 
 
