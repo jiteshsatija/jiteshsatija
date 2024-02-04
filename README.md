@@ -1,3 +1,7 @@
+
+![d9721e5a-fd13-4a73-b65c-c7c40fec3e3c](https://github.com/jiteshsatija/jiteshsatija/assets/144327651/496ec6fc-8532-436a-bbe7-68a3fe15c383)
+
+
 <div align="center">
   <h1 style="font-size: 3em;">Hi there 👋, I'm Jitesh Satija</h1>
 </div>
@@ -39,17 +43,17 @@ Languages and Tools:
 
 ## Connect with Me
 
-[![LinkedIn Icon]<a href="https://www.linkedin.com/in/jiteshsatija2006/">
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" width="40" height="30">
+<a href="https://www.linkedin.com/in/jiteshsatija2006/">
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" width="30" height="30">
 </a>
-[![Twitter]<a href="https://twitter.com/Jiteshsatija_in">
-  <img src="https://freepnglogo.com/images/all_img/1691832460x-twitter-logo-png.png" alt="Twitter" width="40" height="30">
+<a href="https://twitter.com/Jiteshsatija_in">
+  <img src="https://freepnglogo.com/images/all_img/1691832460x-twitter-logo-png.png" alt="Twitter" width="30" height="30">
 </a>
-[![Instagram]<a href="https://www.instagram.com/jiteshh.xd/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram" width="40" height="30">
+<a href="https://www.instagram.com/jiteshh.xd/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram" width="30" height="30">
 </a>
-[![Email]<a href="mailto:jiteshsatija77@gmail.com">
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" width="40" height="30">
+<a href="mailto:jiteshsatija77@gmail.com">
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" width="30" height="30">
 </a>
 
 
