@@ -1,6 +1,5 @@
 
- ![banner](https://github.com/jiteshsatija/jiteshsatija/assets/144327651/496ec6fc-8532-436a-bbe7-68a3fe15c383) 
-
+ ![banner](https://github.com/jiteshsatija/jiteshsatija/assets/144327651/4397c2c7-9490-4dee-851c-83280fc0c863)
 
 
 <div align="center">
